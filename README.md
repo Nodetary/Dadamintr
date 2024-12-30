@@ -140,7 +140,7 @@ Users agree to indemnify and hold harmless The SaaS Cool Era Technologies, its o
 
 For licensing inquiries or permissions, contact:
 The SaaS Cool Era Technologies
-Hello@DocuWerx.com
+Hello@TheSaaSCoolEra.Foundation
 
 ### Modifications
 
