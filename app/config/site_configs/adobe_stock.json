@@ -1,0 +1,17 @@
+{
+    "base_url": "https://stock.adobe.com",
+    "license_history_url": "/Dashboard/LicenseHistory",
+    "selectors": {
+        "row": "tr:has(td)",
+        "columns": "td",
+        "thumbnail": "img"
+    },
+    "data_mapping": {
+        "date": 0,
+        "author": 1,
+        "asset_id": 2,
+        "license": 3,
+        "media_type": 4,
+        "price": 5
+    }
+} 

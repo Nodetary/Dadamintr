@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  scraper:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    volumes:
+      - ./data/output:/data/output
+      - ./data/downloads:/data/downloads
+      - ./app/config:/app/config
+    environment:
+      - TZ=UTC
+    restart: "no"

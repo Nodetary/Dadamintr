@@ -1,0 +1,27 @@
+{
+    "base_url": "",
+    "required_elements": {
+        "authentication": {
+            "type": "cookie|basic|oauth",
+            "fields": []
+        },
+        "headers": {
+            "required": [],
+            "optional": []
+        },
+        "rate_limits": {
+            "requests_per_minute": 30,
+            "concurrent_requests": 1
+        }
+    },
+    "selectors": {
+        "dynamic": true,
+        "cached_selectors": {},
+        "fallback_selectors": {}
+    },
+    "data_validation": {
+        "required_fields": [],
+        "field_types": {},
+        "validation_rules": []
+    }
+} 
