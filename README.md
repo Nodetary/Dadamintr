@@ -127,7 +127,7 @@ This software, including but not limited to its source code, documentation, desi
    - Injunctive relief
    - Recovery of attorney fees and legal costs
 
-2. **Jurisdiction**: Any disputes shall be resolved in the courts of [Your Jurisdiction], under the laws of [Your Jurisdiction], without regard to conflicts of law principles.
+2. **Jurisdiction**: Any disputes shall be resolved in the courts of Texas, under the laws of Texas, without regard to conflicts of law principles.
 
 ### Indemnification
 
@@ -140,7 +140,7 @@ Users agree to indemnify and hold harmless The SaaS Cool Era Technologies, its o
 
 For licensing inquiries or permissions, contact:
 The SaaS Cool Era Technologies
-[Your Contact Information]
+Hello@DocuWerx.com
 
 ### Modifications
 
